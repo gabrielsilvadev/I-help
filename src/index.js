@@ -8,6 +8,7 @@ const App = () =>(
 <>
 <StatusBar backgroundColor="transparent" translucent  barStyle="light-content"/>
 <Routes />
+
 </>
 );
 
